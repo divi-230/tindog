@@ -1,0 +1,134 @@
+#title{
+     background-color:#ff4c68 ;
+     color: #fff;
+
+}
+body{
+     font-family: "Ubuntu";
+}
+.container-fluid{
+     padding:3% 15% 7% ;
+
+}
+h1{
+     font-family: "Montserrat";
+     font-size: 3rem;
+     line-height: 1.5;
+     margin:0% 15%;
+}
+h2{
+     margin-top: 2%;
+     font-family:"Montserrat";
+     font-size: 1.5rem;
+     line-height:1.5 ;
+}
+
+.navbar{
+     padding:0%,0%,4.5rem,0%;
+}
+.navbar-brand{
+     font-family: "Ubuntu";
+     font-size: 2.5;
+     margin-left: 0%;
+}
+.nav-item{
+     padding:0% 10%;
+     font-size: 1.2rem;
+     font-family: "montserrat";
+}
+.download_btn{
+     margin:5% 0% 5% 15%;
+}
+.title-img{
+     margin-top: 0%;
+     margin-left: 15%;
+     width:35%;
+     transform: rotate(25deg);
+     position: absolutes;
+}
+#features{
+     padding:7% 15%;
+     background-color: #fff;
+     position: relative;
+     z-index: 1;
+}
+.feature-box{
+     text-align: center;
+     padding: 5%;
+}
+h3{
+     font-family: montserrat;
+     font-size: 20px;
+   
+}
+p{
+     color:rgb(161, 160, 160);
+}
+.image{
+     padding-bottom: 5%;
+     height:70px;   
+}
+#testimonials{
+     text-align: center;
+     background-color:#fd647b ;
+     color: #fff;
+}
+.carousel-item{
+     padding: 5% 15%;
+}
+.testimonial-image{
+     width:15%;
+     border-radius: 100%;
+     margin-top: 5%;
+}
+#press{
+     background-color: #fd647b;
+     text-align: center;
+     padding-bottom: 3%;
+}
+.press-img{
+     width:15%;
+     margin: 5px 20px;
+}
+.pricing{
+     padding:100px;
+     text-align: center;
+}
+.pricing-col{
+     padding: 3% 2%;
+}
+@media (max-width:1028px)
+{
+     #title{
+          text-align: center;
+     }
+     .title-img{
+          position: static;
+          transform: rotate(0);
+     }
+}
+.h-3{
+     font-family: "Montserrat";
+     font-size: 20px;
+     color: #fff;
+     padding:3%;
+   
+}
+#cta{
+     background-color: #ff4c68;
+     text-align: center;
+     padding:3%;
+}
+#footer{
+     padding: 5% 15%;
+     text-align: center;
+}
+.download_btn1{
+     margin: 0% 3%;
+}
+.footer-image{
+     width:4%;
+     margin: 3px 5px;
+     
+}
+
